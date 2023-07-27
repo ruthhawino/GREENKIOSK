@@ -22,6 +22,10 @@
     
     
 }
+.d{
+    display: flex;
+    justify-content: space-between;
+}
 .maize{
     width: 10px;
 }
